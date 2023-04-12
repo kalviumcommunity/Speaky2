@@ -5,3 +5,5 @@ In today's modern world, many people are afraid to speak in public. There can be
 So, with speaky you can practice your pronunciation skills. And we will provide you the accuracy of your pronunciation. So that you can work on your pronunciation and improve on it. 
 
 So, Here is the Figma Link:- https://www.figma.com/file/FrarKz9ingHWDqdKwKVzrW/Capstone-Project-(Speaky)-2?node-id=0-1&t=CmcPv9bM1KQcgAMe-0
+
+
