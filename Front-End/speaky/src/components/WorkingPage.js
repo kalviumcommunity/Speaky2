@@ -4,6 +4,7 @@ import image from '../Images/background.jpg'
 import { Link } from 'react-router-dom'
 
 const WorkingPage = () => {
+  const str1 = "She walked along the beach feeling the warm sand between her toes and the cool water lapping at her feet. The sun was shining brightly in the clear blue sky, and she could hear the seagulls calling overhead. It was a perfect day, and she felt grateful to be alive and able to enjoy it. She closed her eyes and took a deep breath, savoring the salty air and the peacefulness of the moment."
 
   return (
     <div className='working-page-container'>

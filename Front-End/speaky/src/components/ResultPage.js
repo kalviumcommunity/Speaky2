@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from './Navbar'
 import image from '../Images/background.jpg'
 
-const ResultPage = () => {
+const ResultPage = ({string}) => {
 
   return (
     <>
@@ -14,7 +14,7 @@ const ResultPage = () => {
       </div>
       <div className='result-textbox'>
         <div className='result-textbox-1'>
-          <p>string</p>
+          <p>{string}</p>
         </div>
         <div className='result-textbox-2'>
           <p>str2</p>
