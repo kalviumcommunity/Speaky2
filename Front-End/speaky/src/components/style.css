@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body 
+{
+    background-size: contain;
+}
+.navbar
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(45, 45, 45);
+    height: 7.5vh;
+    width: 100vw;
+    position: fixed;
+}
+.navbar  p
+{
+    margin-left: 84vw;
+    margin-top: 2vh;
+    font-size: 2.7vh;
+    color: white;
+    position: relative;
+}
+.navbar  h1
+{
+    font-size: 4vh;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family: 'Irish Grover', cursive;
+    color: white;
+}
+.main-content
+{
+    display: flex;
+    flex-direction: column;
+}
+.main-content h1 
+{
+    margin-top: 35vh;
+    margin-left: 6vw;
+    font-size: 5vh;
+    padding-bottom: 2vh;
+    font-family: 'Jockey One', sans-serif;
+    color: white;
+}
+.main-content p
+{
+    margin-left: 6vw;
+    margin-top: 1.5vh;
+    margin-bottom: 1.5vh;
+    font-family: 'Jockey One', sans-serif;
+    font-size: 2.8vh;
+    color: white;
+}
+.main-content button
+{
+    height: 5vh;
+    margin-top: 2vh;
+    margin-left: 6vw;
+    width: 15vw;
+    font-size: 2.5vh;
+    border-radius: 10px;
+    background-color: #EED2D2;
+    font-family: 'Jockey One', sans-serif;
+}
+.main-content img
+{
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+}  
+ 
